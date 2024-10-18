@@ -1,0 +1,40 @@
+{
+  "name": "react-leaflet-geofence-map",
+  "version": "1.0.0",
+  "description": "React Leaflet Map managing (Create,Edit,Delete) shapes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/track-r/react-leaflet-geofence-map.git"
+  },
+  "keywords": [
+    "react",
+    "leaflet",
+    "geofence",
+    "map",
+    "shapes",
+    "polygon",
+    "circle",
+    "rectangle",
+    "create",
+    "edit",
+    "delete"
+  ],
+  "author": "Ramadan Velisha <ramadan.velisha@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/track-r/react-leaflet-geofence-map/issues"
+  },
+  "homepage": "https://github.com/track-r/react-leaflet-geofence-map#readme",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-leaflet": "^4.2.1",
+    "react-leaflet-draw": "^0.20.4"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.11"
+  }
+}
